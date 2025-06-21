@@ -4,7 +4,7 @@ import plotly.express as px
 import seaborn as sns
 import numpy as np
 
-df = pd.read_csv('dados_clinicos2.csv', sep=';')
+df = pd.read_csv('dados_clinicos.csv', sep=';')
 
 df.describe()
 
