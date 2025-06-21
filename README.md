@@ -39,7 +39,6 @@ Estrutura do projeto
 
 Resultados do Modelo
 > - A cada 1 kg a mais no peso do paciente, espera-se um aumento de aproximadamente 1,26 unidades no nível de colesterol. 
-> - Valor de colesterol estimado para um paciente com peso igual a 0 (interpretado apenas como base matemática da equação da reta). 
 > - O modelo explica 97% da variação dos níveis de colesterol com base no peso. Um excelente nível de ajuste. 
 > - Em média, o modelo erra cerca de 5 unidades na previsão dos valores reais de colesterol. 
 
