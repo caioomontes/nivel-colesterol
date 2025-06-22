@@ -2,9 +2,8 @@
 
 Doenças cardiovasculares continuam sendo uma das principais causas de morte no mundo, frequentemente associadas a fatores como obesidade e altos níveis de colesterol. No entanto, a realização de exames laboratoriais frequentes em larga escala é limitada por custo e logística, o que dificulta o monitoramento precoce da saúde populacional.
 
-Este projeto foi desenvolvido no contexto do **Módulo 1 do Bootcamp "Arquiteto(a) de Big Data"** e propõe uma solução baseada em ciência de dados: prever o nível de colesterol de pacientes com base em variáveis simples e amplamente disponíveis, como **peso corporal e gênero**.
 
-### 🧠 Questão-Problema
+### 🧠 Situação-Problema
 
 > **É possível prever o colesterol de um paciente apenas com base no seu peso?**
 
@@ -42,7 +41,7 @@ Resultados do Modelo
 > - O modelo explica 97% da variação dos níveis de colesterol com base no peso. Um excelente nível de ajuste. 
 > - Em média, o modelo erra cerca de 5 unidades na previsão dos valores reais de colesterol. 
 
-🧾 Conclusão
+🧾 Conclusão \
 O modelo de regressão linear construído mostrou-se altamente eficaz para prever os níveis de colesterol com base apenas no peso corporal dos pacientes. Com um R² de 0.97, é possível afirmar que existe uma forte correlação entre as duas variáveis, tornando viável o uso desse tipo de abordagem para triagens e ações preventivas na área da saúde.
 
 Feito por Caio Montes — Cientista de Dados & Analista de Dados
